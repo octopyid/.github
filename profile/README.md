@@ -22,8 +22,8 @@ arm 7 ..... writing docs (pending since 2015)
 arm 8 ..... waving at you
 
 $ octopy stack
-backend ... PHP (Laravel, Filament)
-cli ....... Go
+backend ... PHP (Laravel, Filament) and Go
+cli ....... Go (double duty)
 frontend .. TypeScript, Vue
 servers ... Linux, Docker
 excuses ... cached, not invalidated
